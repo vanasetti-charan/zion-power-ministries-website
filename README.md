@@ -5,7 +5,7 @@ A modern, responsive church website designed for **Zion Power Ministries** to pr
 ## 🌐 Live Website
 
 **GitHub Pages:**
-`https://vanasetti-charan.github.io/Zion_webpage/`
+`(https://vanasetti-charan.github.io/zion-power-ministries-website/)`
 ---
 
 ## ✨ Features
